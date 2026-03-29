@@ -8,7 +8,7 @@
 ## 📥 Скачать
 
 👉 **Последняя версия:**  
-[Скачать руссификатор](https://github.com/denrolt/denrolt-five-nights-at-frickbear-s-3-translateRus/blob/main/Frickberars3_ModRus.zip)
+[Скачать руссификатор](https://github.com/denrolt/denrolt-five-nights-at-frickbear-s-3-translateRus/raw/refs/heads/main/Frickberars3_ModRus.zip)
 
 ---
 
